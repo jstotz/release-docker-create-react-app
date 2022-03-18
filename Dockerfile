@@ -12,4 +12,4 @@ EXPOSE 4000
  
 CMD [ "npm", "start" ]
 
-LABEL version="1.5"
+LABEL version="1.6"
